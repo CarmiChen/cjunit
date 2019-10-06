@@ -1,0 +1,20 @@
+{
+    "name": "carmi\/cjunit-laravel",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carmi",
+            "email": "16620600831@163.com"
+        }
+    ],
+
+    "require": {
+        "php": "7.1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Carmi\\CjunitLaravel\\": "src"
+        }
+    }
+}
