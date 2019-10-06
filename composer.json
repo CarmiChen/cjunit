@@ -16,5 +16,12 @@
         "psr-4": {
             "Carmi\\CjunitLaravel\\": "src"
         }
+    },
+    "extra": {
+        "blog": {
+            "providers":[
+                "Carmi\\CjunitLaravel\\Providers\\CJunitServiceProvider"
+            ]
+        }
     }
 }
